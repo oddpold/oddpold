@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ## Shortcuts
 
-- [Markdown Badges](#markdown-badges)
+- [Hi there](#hi-there)
   - [OS](#os)
   - [Programming Languages](#programming-languages)
   - [IDEs](#ides)
